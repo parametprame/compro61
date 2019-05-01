@@ -1,1 +1,4 @@
-<a href="https://www.it.kmitl.ac.th/~it61070230/ProjectAVG/index.html"><h2 id='web'>:triangular_flag_on_post: Go to Website :triangular_flag_on_post:</h2></a>
+This project is part of subject Problem Solving in Information Technology (PSIT)<br>
+Faculty of Information Technology, King Mongkut's Institute of Technology Ladkrabang (KMITL).<br><br>
+[<img src="Other img/IT_kmitl (1).png">](http://www.it.kmitl.ac.th)
+<br><br>
