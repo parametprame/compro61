@@ -1,5 +1,5 @@
 <br><br>
-[<img src="itkmitl.png">](http://www.it.kmitl.ac.th)
+[<img src="other_picture/itkmitl.png">](http://www.it.kmitl.ac.th)
 <br><br>
 
 # il est prudent n safe
@@ -7,7 +7,7 @@
 ตัวอย่างการใช้งาน ->>> (https://youtu.be/Td23UQsfYJ4)
   
  ## Diagram
- <img src="diagram.jpg" width="700" height="500">
+ <img src="other_picture/diagram.jpg" width="700" height="500">
  
  ## Result Technology
  <img src="picture_result/related.jpg" width="700" height="700">
