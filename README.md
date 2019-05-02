@@ -8,8 +8,10 @@
  ## Diagram
  <img src="diagram.jpg" width="700" height="500">
  
- ## Related Technology
+ ## Result Technology
  <img src="related.jpg" width="700" height="500">
+ <img src="result.jpg" width="700" height="500">
+
 
 - This is a project for computer programming 06016315
 - โปรเจคนี้เป็นส่วนหนึ่งของรายวิชา คอมพิมเตอร์โปรแกรมมิ่ง 06016315
