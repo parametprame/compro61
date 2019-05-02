@@ -13,9 +13,6 @@
  <img src="result1.jpg" width="700" height="700">
 
 
-- This is a project for computer programming 06016315
-- โปรเจคนี้เป็นส่วนหนึ่งของรายวิชา คอมพิมเตอร์โปรแกรมมิ่ง 06016315
-
 
 # ☀ Member
 
@@ -28,6 +25,9 @@
 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" height="40">](https://github.com/jowkha)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" height="40">](https://github.com/ploidplanp)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" height="40">](https://github.com/61070091)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[<img src="https://image.flaticon.com/icons/svg/25/25231.svg" width="40" height="40">](https://github.com/parametprame)
+
+- This is a project for computer programming 06016315
+- โปรเจคนี้เป็นส่วนหนึ่งของรายวิชา คอมพิมเตอร์โปรแกรมมิ่ง 06016315
 
 ```sh
 # Faculty of Information Technology
