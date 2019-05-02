@@ -9,8 +9,8 @@
  <img src="diagram.jpg" width="700" height="500">
  
  ## Result Technology
- <img src="related.jpg" width="700" height="500">
- <img src="result1.jpg" width="700" height="500">
+ <img src="related.jpg" width="700" height="700">
+ <img src="result1.jpg" width="700" height="700">
 
 
 - This is a project for computer programming 06016315
